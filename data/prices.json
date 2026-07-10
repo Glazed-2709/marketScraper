@@ -26,6 +26,17 @@
             }
           ],
           "min_price": 589.95
+        },
+        {
+          "timestamp": "2026-07-10T19:39:08.513356+00:00",
+          "suppliers": [
+            {
+              "site": "LDLC",
+              "url": "https://www.ldlc.com/fiche/PB00654376.html",
+              "price": 589.95
+            }
+          ],
+          "min_price": 589.95
         }
       ]
     },
@@ -55,6 +66,17 @@
             }
           ],
           "min_price": 1049.95
+        },
+        {
+          "timestamp": "2026-07-10T19:39:12.260232+00:00",
+          "suppliers": [
+            {
+              "site": "LDLC",
+              "url": "https://www.ldlc.com/fiche/PB00630887.html",
+              "price": 1049.95
+            }
+          ],
+          "min_price": 1049.95
         }
       ]
     },
@@ -63,7 +85,25 @@
       "cat": "RAM",
       "target": 380,
       "history": []
+    },
+    "kf560c30bbek2_32_35691": {
+      "name": "KF560C30BBEK2-32",
+      "cat": "RAM",
+      "target": 250,
+      "history": [
+        {
+          "timestamp": "2026-07-10T19:37:57.011417+00:00",
+          "suppliers": [
+            {
+              "site": "LDLC",
+              "url": "https://www.ldlc.com/fiche/PB00654376.html",
+              "price": 589.95
+            }
+          ],
+          "min_price": 589.95
+        }
+      ]
     }
   },
-  "last_run": "2026-07-10T12:52:41.725364+00:00"
+  "last_run": "2026-07-10T19:40:19.920398+00:00"
 }
