@@ -1,0 +1,47 @@
+{
+  "components": {
+    "ram32": {
+      "name": "Kingston FURY Beast 32Go 6000 CL30",
+      "cat": "RAM",
+      "target": 400,
+      "history": [
+        {
+          "timestamp": "2026-07-10T12:23:50.508215+00:00",
+          "suppliers": [
+            {
+              "site": "LDLC",
+              "url": "https://www.ldlc.com/fiche/PB00654376.html",
+              "price": 589.95
+            }
+          ],
+          "min_price": 589.95
+        }
+      ]
+    },
+    "ram64": {
+      "name": "Kingston FURY Beast 64Go 6000 CL30",
+      "cat": "RAM",
+      "target": 800,
+      "history": [
+        {
+          "timestamp": "2026-07-10T12:23:53.980714+00:00",
+          "suppliers": [
+            {
+              "site": "LDLC",
+              "url": "https://www.ldlc.com/fiche/PB00630887.html",
+              "price": 1049.95
+            }
+          ],
+          "min_price": 1049.95
+        }
+      ]
+    },
+    "ram32_corsair": {
+      "name": "Corsair Vengeance 32Go 6000 CL30",
+      "cat": "RAM",
+      "target": 380,
+      "history": []
+    }
+  },
+  "last_run": "2026-07-10T12:25:01.091910+00:00"
+}
