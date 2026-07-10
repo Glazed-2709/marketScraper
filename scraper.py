@@ -27,6 +27,16 @@ REQUEST_DELAY_SECONDS = 3  # respecte les serveurs, evite le rate-limit / ban IP
 # Liste des produits a suivre. Ajoute/retire des entrees ici.
 WATCHLIST = [
     {
+        "id": "kf560c30bbek2_32_35691",
+        "name": "KF560C30BBEK2-32",
+        "cat": "RAM",
+        "target": 250,
+        "sources": [
+            {"site": "LDLC", "url": "https://www.ldlc.com/fiche/PB00654376.html"},
+        ],
+    },
+
+    {
         "id": "ram32",
         "name": "Kingston FURY Beast 32Go 6000 CL30",
         "cat": "RAM",
