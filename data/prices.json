@@ -477,6 +477,17 @@
             }
           ],
           "min_price": 589.95
+        },
+        {
+          "timestamp": "2026-07-21T08:35:31.324295+00:00",
+          "suppliers": [
+            {
+              "site": "LDLC",
+              "url": "https://www.ldlc.com/fiche/PB00654376.html",
+              "price": 589.95
+            }
+          ],
+          "min_price": 589.95
         }
       ]
     },
@@ -957,6 +968,17 @@
             }
           ],
           "min_price": 1049.95
+        },
+        {
+          "timestamp": "2026-07-21T08:35:36.165840+00:00",
+          "suppliers": [
+            {
+              "site": "LDLC",
+              "url": "https://www.ldlc.com/fiche/PB00630887.html",
+              "price": 1049.95
+            }
+          ],
+          "min_price": 1049.95
         }
       ]
     },
@@ -1421,9 +1443,20 @@
             }
           ],
           "min_price": 589.95
+        },
+        {
+          "timestamp": "2026-07-21T08:34:19.003517+00:00",
+          "suppliers": [
+            {
+              "site": "LDLC",
+              "url": "https://www.ldlc.com/fiche/PB00654376.html",
+              "price": 589.95
+            }
+          ],
+          "min_price": 589.95
         }
       ]
     }
   },
-  "last_run": "2026-07-21T02:57:53.941725+00:00"
+  "last_run": "2026-07-21T08:36:43.394308+00:00"
 }
